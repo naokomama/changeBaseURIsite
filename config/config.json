@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x018eDc004D018B3017BaF20C0119C67d8B66d929",
+  "SCAN_LINK": "https://etherscan.io/address/0x018edc004d018b3017baf20c0119c67d8b66d929",
+  "NETWORK": {
+    "NAME": "ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "MyCNPBaby",
+  "SYMBOL": "MCB",
+  "MAX_SUPPLY": 124,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/ja/collection/cnpbeth",
+  "SHOW_BACKGROUND": true
+}

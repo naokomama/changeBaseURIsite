@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xba85B375EFfDDB4C02b8BCCEFA65B7234AaFFe11",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xba85b375effddb4c02b8bccefa65b7234aaffe11",
+  "NETWORK": {
+    "NAME": "GoerliETH",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "MyCNPBaby",
+  "SYMBOL": "MCB",
+  "MAX_SUPPLY": 124,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
